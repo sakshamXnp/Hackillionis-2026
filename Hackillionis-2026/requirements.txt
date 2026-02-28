@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+pydantic-settings
+httpx>=0.25.0
